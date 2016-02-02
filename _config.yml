@@ -1,7 +1,7 @@
 name: masterpor
 favicon: null
-layout_spectrum: 0.6868486870080233
-typography_spectrum: 0.7109971386380494
+layout_spectrum: 0.0535
+typography_spectrum: 0.59287
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.9889174371492118
-  lightness: 0.49330111499875784
-  saturation: 0.09323482704348862
-  rhythmicContrast: 0.7512865755707026
+  brandStrength: 0.75
+  lightness: 0.625
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
